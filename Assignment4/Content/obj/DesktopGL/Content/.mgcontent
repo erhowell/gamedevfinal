@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Font/ButtonFont.spritefont</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Font/Heading1.spritefont</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Font/Paragraph.spritefont</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Font/Subheading.spritefont</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Sprites/ship2.png</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Sprites/ship3.png</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Sprites/ship5.png</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Sprites/Spaceship_tut.png</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Sprites/Spaceship_tut_thin.png</File>
+    <File>E:/school/Spring 2021/GameDev/Assignment4/Assignment4/Content/Sprites/spiked ship 3. small.blue_.PNG</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
